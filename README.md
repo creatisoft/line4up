@@ -148,7 +148,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-[Your Name] - [Your GitHub Profile]
+[Christopher M.]
 
 ## 🙏 Acknowledgments
 
