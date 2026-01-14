@@ -1,5 +1,9 @@
 # Line4UP - 3D Connect 4 Game
 
+
+https://github.com/user-attachments/assets/724656ad-bcdf-45fc-a1f1-131ca9202820
+
+
 A modern 3D remake of the classic Connect 4 game built with **Three.js**. Play against an intelligent AI opponent in a beautiful 3D environment with interactive gameplay and smooth animations.
 
 ## 🎮 Features
